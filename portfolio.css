@@ -4,7 +4,7 @@
   font-size:24px;
   line-height:70px;
   text-transform:uppercase;
-  
+  margin:0 0 0 30px;
   positon:fixed;
   width:100%;
   
@@ -16,9 +16,9 @@
 #home{
   background:url("http://media.gettyimages.com/videos/abstract-geometric-triangles-video-id530914670?s=640x640") no-repeat center center;
   background-size:cover;
-  width:100%;
+  width:1180%;
   height:700px;
-  
+  margin:70px 0 0 0;
   text-align:center;
   font-family:Sahitya;
   color:darkBlue;
@@ -30,9 +30,9 @@
 #about{
   background:url("http://previews.123rf.com/images/apostrophe/apostrophe1503/apostrophe150300032/37568887-Dise-o-geom-trico-blanco-formas-abstractas-sobre-fondo-de-color-rosa-la-l-nea-en-ngulo-elementos-de--Foto-de-archivo.jpg") no-repeat center center;
   background-size:cover;
-  width:100%;
+  width:1180px;
   height:700px;
-
+  margin:0 0 0 0;
   padding-top:70px;
   text-align:center ;
   color:#c71585;
@@ -59,8 +59,9 @@
 #my-work{
   background:url("http://media.gettyimages.com/videos/abstract-geometric-triangles-video-id532452196?s=640x640") no-repeat center center;
    background-size:cover;
-  width:100%;
+  width:1180px;
   height:700px;
+  margin:0 0 0 0;
   padding-top:70px;
   text-align:center ;
   color:darkgreen;
@@ -71,8 +72,9 @@
 #contact{
   background:url("http://media.gettyimages.com/videos/abstract-geometric-triangles-video-id532359894?s=640x640") no-repeat center center;
    background-size:cover;
-  width:100%;
+  width:1180px;
   height:700px;
+  margin:0 0 0 0;
   text-align:center ;
    padding-top:70px;
   text-align:center ;
